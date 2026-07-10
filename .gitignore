@@ -1,3 +1,6 @@
 .DS_Store
 Assests/
 serve.py
+
+# Local Netlify folder
+.netlify
